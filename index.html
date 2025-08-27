@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mukesh Store</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+    h1 { color: #2c3e50; }
+    .product { border: 1px solid #ddd; padding: 10px; margin: 10px; display: inline-block; width: 200px; }
+    .product img { width: 100%; }
+    .btn { background: #27ae60; color: white; padding: 10px; text-decoration: none; display: block; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Mukesh Store 🛒</h1>
+  <p>Affiliate Products List</p>
+
+  <div class="product">
+    <img src="https://via.placeholder.com/200" alt="Product">
+    <h3>Sample Product</h3>
+    <p>₹499</p>
+    <a href="https://www.amazon.in/" target="_blank" class="btn">Buy Now</a>
+  </div>
+
+</body>
+</html>
